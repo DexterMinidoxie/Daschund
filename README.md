@@ -2,9 +2,9 @@
 <h1 align="center">Hello, I'm Martin.</h1>
 <h3 align="center">Frontend developer as a hobby.</h3>
 
-- 🔰 I’m currently learning **javascript / react**
+- 🔰 I’m currently learning ****
 
-- 💬 Ask me about **react**
+- 💬 Ask me about ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
